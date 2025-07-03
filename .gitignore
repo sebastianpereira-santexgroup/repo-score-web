@@ -1,6 +1,9 @@
 # Claude AI
 .claude/
 
+# Qodo AI
+.qodo/
+
 # macOS
 .DS_Store
 .AppleDouble
